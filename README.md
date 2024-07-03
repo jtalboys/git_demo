@@ -1,8 +1,2 @@
 # git_demo
-Demo repository to introduce working with git and GitHub. This will definitely be very very useful!!
-
-More changes.....
-
-Even more....
-
-and more...
+Demo repository to introduce working with git and GitHub
